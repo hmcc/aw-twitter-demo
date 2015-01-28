@@ -1,6 +1,6 @@
 # aw-twitter-demo
 
-A very quick demo for loading tweets containing Aurora pictures from using twitter4j.
+A very quick demo for loading tweets containing Aurora pictures, using twitter4j.
 I wanted to identify how many of these tweets, if any, contained location information.
 
 ## Build and run
